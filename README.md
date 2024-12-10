@@ -27,4 +27,5 @@ Puedes contribuir directamente a la documentación haciendo lo siguiente:
    Ten en cuenta que hay un formato de documento al crear nuevas páginas, consulta más abajo para obtener detalles.
 4. Crea una solicitud de pull para agregar los cambios al repositorio.
 
+
 **Nota:** Si estás agregando nuevas páginas, asegúrate de agregarlas en [`sidebars.js`](/sidebars.js) (ubicado en la raíz del repositorio).
